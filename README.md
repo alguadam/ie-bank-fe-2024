@@ -17,6 +17,8 @@
 
 This is the repository for the frontend code of the IE Bank web app
 
+This is my new other branch
+
 ![IE Bank app logical view](images/ie-bank-app.png)
 
 ## Requirements
